@@ -1,3 +1,5 @@
+This is my code for js module-1 for metacrafter
+
 const NFTs = [];
 
 function mintNFT(name, type, value, color) {
